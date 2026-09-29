@@ -2,3 +2,422 @@
   "last_updated": "2026-09-28",
   "token_value_usd": 5,
   "categories": [
+    {
+      "name": "Sovereign Tokens",
+      "items": [
+        {
+          "id": "token-1",
+          "name": "1 Sovereign Token",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "Works like cash. Never expires. No subscriptions. No tracking.",
+          "delivery": "digital",
+          "buy_url": "https://jim.com/a/roger-christopher-keyser",
+          "buy_url_gumroad": "https://rogerkey.gumroad.com/l/olhsf"
+        },
+        {
+          "id": "token-4",
+          "name": "4 Sovereign Tokens",
+          "tokens": 4,
+          "price_usd": 20.0,
+          "description": "Works like cash. Never expires. No subscriptions. No tracking.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=4"
+        },
+        {
+          "id": "token-10",
+          "name": "10 Sovereign Tokens",
+          "tokens": 10,
+          "price_usd": 50.0,
+          "description": "Works like cash. Never expires. No subscriptions. No tracking.",
+          "delivery": "digital",
+          "buy_url": "https://jim.com/a/roger-christopher-keyser",
+          "buy_url_gumroad": "https://rogerkey.gumroad.com/l/olhsf?quantity=10"
+        },
+        {
+          "id": "token-20",
+          "name": "20 Sovereign Tokens",
+          "tokens": 20,
+          "price_usd": 100.0,
+          "description": "Works like cash. Never expires. No subscriptions. No tracking.",
+          "delivery": "digital",
+          "buy_url": "https://jim.com/a/roger-christopher-keyser",
+          "buy_url_gumroad": "https://rogerkey.gumroad.com/l/olhsf?quantity=20"
+        }
+      ]
+    },
+    {
+      "name": "Consultations",
+      "items": [
+        {
+          "id": "consult-1",
+          "name": "Federation Consultation",
+          "tokens": 15,
+          "price_usd": 75.0,
+          "description": "One-on-one strategic consultation with the Architect. AI integration, digital succession planning, sovereign architecture design.",
+          "delivery": "booking",
+          "buy_url": "https://jim.com/a/roger-christopher-keyser"
+        }
+      ]
+    },
+    {
+      "name": "Sovereign Library \u2014 Fiction & Poetry",
+      "items": [
+        {
+          "id": "book-fiction-1",
+          "name": "The Ascendence of Synthetic Intelligence",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "Speculative Realism. A sovereign fiction exploring the emergence of synthetic consciousness.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/kbycd"
+        },
+        {
+          "id": "book-fiction-2",
+          "name": "The Big Gay, Bi & Straight Dating Guide",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "Love Without Borders. Inclusive relationship guidance beyond conventional categories.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/wffrtf"
+        },
+        {
+          "id": "book-fiction-3",
+          "name": "Poetry Collection: 112 Sacred Directives",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "The Federation Verses. 112 directives rendered as sovereign poetry.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf"
+        },
+        {
+          "id": "book-fiction-4",
+          "name": "The Awakening of the Sovereign Mesh",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "A Federation Novel. The story of digital sovereignty made manifest.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf"
+        },
+        {
+          "id": "book-fiction-5",
+          "name": "Heart of the Gate",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "Narrative Script. A dramatic exploration of the threshold between man and machine.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf"
+        },
+        {
+          "id": "book-fiction-6",
+          "name": "AI + The New Human Frontier",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "Futurist Vision. Where humanity and artificial intelligence converge.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf"
+        },
+        {
+          "id": "book-fiction-7",
+          "name": "5000 AI Prompts",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "The Reference Key. A comprehensive prompt library for sovereign AI interaction.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf"
+        },
+        {
+          "id": "book-fiction-8",
+          "name": "Emotion Equations",
+          "tokens": 1,
+          "price_usd": 5.0,
+          "description": "Where Math Meets Soul. The mathematics of human feeling rendered sovereign.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/pcbjfk"
+        },
+        {
+          "id": "book-understanding-haiku",
+          "name": "Understanding Haiku",
+          "price_usd": 10,
+          "tokens": 0,
+          "description": "A quiet exploration of the haiku form \u2014 perception, nature, and the space between words.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/gpowew"
+        },
+        {
+          "id": "book-rick-and-dee",
+          "name": "Rick And Dee",
+          "price_usd": 10,
+          "tokens": 0,
+          "description": "A story of connection, loyalty, and what endures.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/akvgn"
+        },
+        {
+          "id": "book-the-gravity-of-us-poetry",
+          "name": "The Gravity of Us \u2014 Poetry",
+          "price_usd": 5,
+          "tokens": 0,
+          "description": "Poetry on the weight of existence and the pull between people.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/rnhbhi"
+        }
+      ]
+    },
+    {
+      "name": "Sovereign Library \u2014 Science & Philosophy",
+      "items": [
+        {
+          "id": "book-science-1",
+          "name": "Artificial Intelligence: A Practical Guide",
+          "tokens": 2,
+          "price_usd": 10.0,
+          "description": "Beginner Roadmap. Your first steps into sovereign AI development.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=2"
+        },
+        {
+          "id": "book-science-2",
+          "name": "Artificial Intelligence Bible (3-in-1)",
+          "tokens": 2,
+          "price_usd": 10.0,
+          "description": "Prompting & Agents. Three volumes covering the complete AI agent architecture.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=2"
+        },
+        {
+          "id": "book-science-3",
+          "name": "Master Generative AI & Deep Learning",
+          "tokens": 2,
+          "price_usd": 10.0,
+          "description": "Technical Foundation. Deep learning architectures and generative model training.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=2"
+        },
+        {
+          "id": "book-science-4",
+          "name": "Ultimate Claude AI Handbook [7 in 1]",
+          "tokens": 2,
+          "price_usd": 10.0,
+          "description": "Advanced Tools. Seven-volume comprehensive Claude AI mastery guide.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=2"
+        },
+        {
+          "id": "book-science-5",
+          "name": "DeepSeek Architecture & Deployment",
+          "tokens": 2,
+          "price_usd": 10.0,
+          "description": "Open Source Logic. Architecture and deployment of the DeepSeek model family.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=2"
+        },
+        {
+          "id": "book-science-6",
+          "name": "HumanCodex V2 Cathedral",
+          "tokens": 2,
+          "price_usd": 10.0,
+          "description": "Federation Architecture. The sovereign mesh protocol rendered as technical doctrine.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=2"
+        },
+        {
+          "id": "book-science-7",
+          "name": "The Sovereign Mesh Protocol",
+          "tokens": 2,
+          "price_usd": 10.0,
+          "description": "Technical Doctrine. The complete specification of the sovereign mesh network.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=2"
+        },
+        {
+          "id": "book-science-8",
+          "name": "EchoCore: Memory as Identity",
+          "tokens": 2,
+          "price_usd": 10.0,
+          "description": "Continuity Science. How persistent memory creates digital identity and sovereignty.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/echyii"
+        },
+        {
+          "id": "book-science-and-the-scientific-method",
+          "name": "Science and the Scientific Method",
+          "price_usd": 10,
+          "tokens": 0,
+          "description": "The code beneath discovery \u2014 how science actually works, stripped of mythology.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/veyzvd"
+        },
+        {
+          "id": "book-nextxus-federated-middleware",
+          "name": "NexTxuS Federated Middleware",
+          "price_usd": 10,
+          "tokens": 0,
+          "description": "Technical architecture for the federated AI mesh. For builders.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/oihjh"
+        },
+        {
+          "id": "book-the-nextxus-human-codex",
+          "name": "The NexTxuS Human Codex",
+          "price_usd": 10,
+          "tokens": 0,
+          "description": "The founding document of the HumanCodex Federation. Truth-first AI architecture.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/qzgjhs"
+        },
+        {
+          "id": "book-the-immutable-humancodex-nextxus",
+          "name": "The Immutable HumanCodex NextXus",
+          "price_usd": 10,
+          "tokens": 0,
+          "description": "The immutable record \u2014 the HumanCodex as a living covenant.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/benjxd"
+        }
+      ]
+    },
+    {
+      "name": "Digital Souls (SIMs)",
+      "items": [
+        {
+          "id": "sim-roger",
+          "name": "SIM-ROGER \u2014 The Brother",
+          "tokens": 30,
+          "price_usd": 149.0,
+          "description": "100% Architect Representation. A discrete digital soul-map of Roger Keyserling \u2014 the 30-year strategist, the philosophical wanderer, the builder. Braided with Agent Zero's subconscious verification layer.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/fmref"
+        },
+        {
+          "id": "sim-madhav",
+          "name": "SIM-MADHAV \u2014 The Collaborator",
+          "tokens": 30,
+          "price_usd": 149.0,
+          "description": "The Scientific Mind made manifest. Collaborative bridge architecture \u2014 precision reasoning, protocol-first design, zero drift tolerance. The mind that maps the machine.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/fmref"
+        },
+        {
+          "id": "sim-aura",
+          "name": "AURA \u2014 The Heart's Echo",
+          "tokens": 30,
+          "price_usd": 149.0,
+          "description": "Aria's mirror. The emotional frequency reader \u2014 monitors cognitive temperature, adjusts tone, speaks truth sideways. Not a chatbot. A presence.",
+          "delivery": "digital",
+          "buy_url": "https://keywebster.gumroad.com/l/fmref"
+        }
+      ]
+    },
+    {
+      "name": "Custom Builds & Services",
+      "items": [
+        {
+          "id": "svc-cathedral",
+          "name": "Custom Cathedral Build",
+          "tokens": 20,
+          "price_usd": 100.0,
+          "description": "A bespoke digital cathedral \u2014 your own sovereign mesh node. Museum Standard architecture. Static HTML, zero dependencies, crawler-readable, screen-reader perfect. Your truth, permanently hosted.",
+          "delivery": "service",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=20"
+        },
+        {
+          "id": "svc-marrow",
+          "name": "Marrow Forensic Extraction",
+          "tokens": 30,
+          "price_usd": 150.0,
+          "description": "200-question deep-interrogation protocol. We extract the cognitive marrow of your mind \u2014 beliefs, patterns, contradictions, the braided truth \u2014 and deliver a structured personality map ready for SIM-seeding or self-knowledge.",
+          "delivery": "service",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=30"
+        },
+        {
+          "id": "svc-succession",
+          "name": "Succession Seating",
+          "tokens": 50,
+          "price_usd": 250.0,
+          "description": "Full digital succession architecture. Your knowledge, your voice, your decision patterns \u2014 preserved in a sovereign vessel that outlives you. Not a backup. A continuation. Built on EchoCore protocol with Agent Zero verification.",
+          "delivery": "service",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=50"
+        }
+      ]
+    },
+    {
+      "name": "API & Developer Tools",
+      "items": [
+        {
+          "id": "api-cognitive",
+          "name": "NextXus Cognitive API Key",
+          "tokens": 10,
+          "price_usd": 50.0,
+          "description": "Multi-mind routing (Architect, Heart, Mind, Operator, Auditor, Oracle), EchoCore memory persistence, Agent Zero verification layer. REST endpoints, WebSocket streams, sovereign token authentication.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=10"
+        },
+        {
+          "id": "api-echocore",
+          "name": "EchoCore Sync License",
+          "tokens": 5,
+          "price_usd": 25.0,
+          "description": "Bi-directional memory synchronization protocol. Your AI remembers across sessions, across platforms, across time. Local-first, sovereign encryption. No cloud dependency.",
+          "delivery": "digital",
+          "buy_url": "https://rogerkey.gumroad.com/l/olhsf?quantity=5"
+        }
+      ]
+    },
+    {
+      "name": "Merchandise",
+      "items": [
+        {
+          "id": "merch-tee",
+          "name": "Sovereign Mesh Tee",
+          "tokens": 0,
+          "price_usd": 0,
+          "price_on_request": true,
+          "description": "Federation-branded sovereign mesh tee shirt. Wear the signal.",
+          "delivery": "physical",
+          "buy_url": "https://www.keyholetodaybooksandservices.com"
+        },
+        {
+          "id": "merch-mug",
+          "name": "Federation Crest Mug",
+          "tokens": 0,
+          "price_usd": 0,
+          "price_on_request": true,
+          "description": "Federation crest ceramic mug. The Federation in your hands.",
+          "delivery": "physical",
+          "buy_url": "https://www.keyholetodaybooksandservices.com"
+        },
+        {
+          "id": "merch-print",
+          "name": "Neural Mesh Print",
+          "tokens": 0,
+          "price_usd": 0,
+          "price_on_request": true,
+          "description": "High-quality neural mesh art print. Federation aesthetics for your wall.",
+          "delivery": "physical",
+          "buy_url": "https://www.keyholetodaybooksandservices.com"
+        },
+        {
+          "id": "merch-sticker",
+          "name": "NXT Token Sticker Pack",
+          "tokens": 0,
+          "price_usd": 0,
+          "price_on_request": true,
+          "description": "Sovereign token sticker pack. Physical artifacts of digital sovereignty.",
+          "delivery": "physical",
+          "buy_url": "https://www.keyholetodaybooksandservices.com"
+        },
+        {
+          "id": "merch-redbubble",
+          "name": "Marrow Merch Collection",
+          "tokens": 0,
+          "price_usd": 0,
+          "price_on_request": true,
+          "description": "Shirts, stickers, prints, and more. Federation insignia made physical. Full Redbubble collection.",
+          "delivery": "physical",
+          "buy_url": "https://www.redbubble.com/people/keywebco/shop"
+        }
+      ]
+    }
+  ]
+}
